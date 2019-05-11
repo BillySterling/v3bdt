@@ -1,0 +1,18 @@
+body {
+    display: flex !important;
+    min-height: 70vh !important;
+    flex-direction: column !important;
+}
+
+main {
+    min-height: 70vh !important;
+}
+
+.main {
+    flex: 1 0 auto !important;
+}
+
+footer {
+    background-color: #250f10;
+    min-height: 30vh !important;
+}

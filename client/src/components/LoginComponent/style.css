@@ -1,0 +1,22 @@
+div.row.loginbox {
+    margin-top: 30px;
+}
+
+.card-image.background {
+    height: 225px;
+}
+
+.card-image.logo {
+    width: 110px;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.btn {
+    cursor: pointer;
+}
